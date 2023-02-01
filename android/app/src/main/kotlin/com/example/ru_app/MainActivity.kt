@@ -1,4 +1,4 @@
-package com.example.ru_digital_new_app
+package com.example.ru_app
 
 import io.flutter.embedding.android.FlutterActivity
 
